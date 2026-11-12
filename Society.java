@@ -1,4 +1,4 @@
-class Society {
+public class Society {
     public String societyName;
     public String cityName;
     public String registrationNo;
