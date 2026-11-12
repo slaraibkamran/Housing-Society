@@ -2,7 +2,7 @@ public class CommunityPlot extends Plot {
 
     private String facilityName;
 
-    CommunityPlot(double length, double width) {
+   public CommunityPlot(double length, double width) {
 
         super(length, width);
 
