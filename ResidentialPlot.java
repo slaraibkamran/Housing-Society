@@ -4,7 +4,7 @@ public class ResidentialPlot extends Plot {
 
     public String houseNumber;
 
-    ResidentialPlot(double length, double width) {
+    public ResidentialPlot(double length, double width) {
 
         super(length, width);
 
