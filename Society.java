@@ -6,7 +6,7 @@ public class Society {
     public Block[] blocks;
     public int blockCount;
 
-    Society(String societyName, String cityName,
+    public Society(String societyName, String cityName,
             String registrationNo) {
 
         this.societyName = societyName;
