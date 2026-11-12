@@ -15,7 +15,7 @@ public abstract class Plot {
     public String cnic;
     public String phoneNumber;
 
-    Plot(double length, double width) {
+    public Plot(double length, double width) {
 
         this.plotNumber = nextPlotNumber++;
         this.length = length;
