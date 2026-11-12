@@ -1,4 +1,4 @@
-class ResidentialPlot extends Plot {
+public class ResidentialPlot extends Plot {
 
     public static int nextHouseNumber = 1;
 
